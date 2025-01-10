@@ -19,11 +19,6 @@ LogFilter is a lightweight log filtering tool built with Python. It processes lo
     cd logfilter
     ```
 
-2. Install the required Python packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the script:

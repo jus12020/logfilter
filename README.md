@@ -24,8 +24,6 @@ LogFilter is a lightweight log filtering tool built with Python. It processes lo
     pip install -r requirements.txt
     ```
 
-3. Configure `config.json` as needed.
-
 ## Usage
 
 1. Run the script:

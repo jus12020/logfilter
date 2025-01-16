@@ -11,6 +11,12 @@ LogFilter is a lightweight log filtering tool built with Python. It processes lo
 
 - Python 3.6 or higher
 
+
+## To Do
+
+- Track number of duplicates
+- This feature may be implemented using dictionaries 
+
 ## Installation
 
 1. Clone the repository:

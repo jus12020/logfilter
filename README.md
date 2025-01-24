@@ -16,6 +16,7 @@ LogFilter is a lightweight log filtering tool built with Python. It processes lo
 ## Requirements
 
 - Python 3.6 or higher
+- https://www.python.org/downloads/
 
 
 ## To Do

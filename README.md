@@ -4,9 +4,9 @@ LogFilter is a lightweight log filtering tool built with Python. It processes lo
 
 ## Contributors
 
-Justin (jus12020)
-Frankie (fra13707)
-Danish (dan13808)
+- Justin (jus12020)
+- Frankie (fra13707)
+- Danish (dan13808)
 
 ## Features
 

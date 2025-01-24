@@ -2,6 +2,12 @@
 
 LogFilter is a lightweight log filtering tool built with Python. It processes log files by removing duplicate log entries.
 
+## Contributors
+
+Justin (jus12020)
+Frankie (fra13707)
+Danish (dan13808)
+
 ## Features
 
 - Lightweight log filtering
